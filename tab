@@ -1,0 +1,2 @@
+@reboot /bin/sleep 60 ; /home/nuo/Documentos/tigervnc/usr/bin/x0vncserver -display=:0 -SecurityTypes=none > /home/nuo/Documentos/tigervnc/usr/bin/log/crone.log 2>&1
+
